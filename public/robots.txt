@@ -1,4 +1,4 @@
-User-agent: *
+User-agent: * 
 Disallow:
 
 Sitemap: https://nexus-u55n-94j9l1myn-suhanis-projects-192fe322.vercel.app/sitemap.xml
